@@ -28,10 +28,10 @@ Software Engineer / Full-Stack Developer
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,dynamodb)](https://skillicons.dev)
 
 #### DevOps & Cloud
-[![DevOps & Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git,postman)](https://skillicons.dev)
+[![DevOps & Cloud](https://skillicons.dev/icons?i=aws,gcp,postman,docker,maven,git,github)](https://skillicons.dev)
 
 #### Other Skills
-[![Other Skills](https://skillicons.dev/icons?i=linux,markdown,vscode)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=linux,idea,vscode,eclipse,figma)](https://skillicons.dev)
 
 ### Socials
 
