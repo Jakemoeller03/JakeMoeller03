@@ -1,7 +1,7 @@
 ![Profile View](https://komarev.com/ghpvc/?username=jakemoeller03&style=flat-square)
 
 # Hi there! 👋 I'm Jacob Moeller
-============================
+
 Software Engineer / Full-Stack Developer
 ------------------------------------------------
 🎓 Soon to be grad with a Bachelor's of Computer Science. (December 2025)  
