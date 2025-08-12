@@ -19,7 +19,7 @@ Software Engineer / Full-Stack Developer
 [![Programming Languages](https://skillicons.dev/icons?i=java,python,js,c,php,sql)](https://skillicons.dev)
 
 #### Frontend Web Development
-[![Frontend Web Development](https://skillicons.dev/icons?i=html,css,react,bootstrap,jquery)](https://skillicons.dev)
+[![Frontend Web Development](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,jquery)](https://skillicons.dev)
 
 #### Backend Web Development
 [![Backend Web Development](https://skillicons.dev/icons?i=spring,php)](https://skillicons.dev)
