@@ -4,7 +4,7 @@
 
 Software Engineer / Full-Stack Developer
 ------------------------------------------------
-🎓 Soon to be grad with a Bachelor's of Computer Science. (December 2025)  
+🎓 Soon to be grad from UT San Antonio with a Bachelor's of Computer Science. (December 2025)  
 
 * 🌍 I'm based in San Antonio, TX  
 * ✉️ You can contact me at [Jakemoeller03@gmail.com](mailto:jakemoeller03@gmail.com)  
